@@ -6,6 +6,10 @@ IDE：VS2019
 
 库：GL库
 
+https://blog.csdn.net/J_2333/article/details/104781124
+
+该项目仅需要按上述配置VS即可。
+
 本项目可以建造多个实体，以及每个实体可以有多个内环。输入数据Data.txt的意义如下：
 
 2（实体个数）
