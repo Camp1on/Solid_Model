@@ -1,0 +1,15 @@
+﻿  Brep.cpp
+D:\Solid-model\3DModeling\Project1\Brep.cpp(35,22): warning C4018: “<”: 有符号/无符号不匹配
+  Display.cpp
+D:\Solid-model\3DModeling\Project1\Display.cpp(58,11): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Solid-model\3DModeling\Project1\Display.cpp(59,11): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Solid-model\3DModeling\Project1\Display.cpp(84,12): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Solid-model\3DModeling\Project1\Display.cpp(85,12): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Solid-model\3DModeling\Project1\Display.cpp(91,12): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\Solid-model\3DModeling\Project1\Display.cpp(105,48): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\Solid-model\3DModeling\Project1\Display.cpp(134,41): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Solid-model\3DModeling\Project1\Display.cpp(134,31): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Solid-model\3DModeling\Project1\Display.cpp(134,21): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Solid-model\3DModeling\Project1\Display.cpp(176,6): warning C4101: “numb”: 未引用的局部变量
+  正在生成代码...
+  Project1.vcxproj -> D:\Solid-model\3DModeling\Project1\Debug\Project1.exe
